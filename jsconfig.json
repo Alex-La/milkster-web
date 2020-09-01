@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "*": ["src/*"],
+      "test/*": ["test/*"],
+      "components/*": ["src/componets/*"],
+      "underscore": ["lodash"]
+    }
+  },
+  "include": ["/**/*"],
+  "exclude": []
+}
